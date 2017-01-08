@@ -1,0 +1,8 @@
+{
+  "realm": "wildfly-swarm",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnJSXuOzF6H5LRjhaDVEWqitecTTZPI1Uo4oJthx30p471ttAhAiGvDBnfOm1X9La1v6e0SsARx0fwfQgBHygulgYwAL69dlKgEr8ndtg6Nc+NWgKBcmFM5Ni518U8G4mburwaaA0HvOKJMMWg9LjetR+NRSuyafaPNj7XZrvPn055yuVlMbnCl34zKJZt51ZN4/cL6W/Mrxub8d+L+2C/aHkK9A0Jro88XNAHfVz8uXOotO7cvN2+1kjUPTSfqMT8iry67Pb78J77/LiOvWWoD7soCWzGNcW0imwAKWEmLUXiaFVAIIhsBT1Hy+Gmb5yKhNrlXBGyE+/2HwY4wk+kwIDAQAB",
+  "bearer-only": true,
+  "auth-server-url": "http://localhost:18080/auth",
+  "ssl-required": "external",
+  "resource": "wildfly-swarm"
+}
